@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi Teja Karanam
-- 👀 I’m interested in MERN Stack Development
-- 🌱 I’m currently learning various technologies related to MERN Stack
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning various technologies related to Full Stack
 - 📫 You can reach me on ravitejakaranam1999@gmail.com
 
 <!---
