@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ravi Teja Karanam
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning various technologies related to Full Stack
+- 💻 Full Stack Developer with 2 years of experience building scalable web applications
+- ⚡ Skilled in JavaScript, React.js, Node.js, SQL, MongoDB, Kafka and Redis
+- 🌱 System Design, Distributed Systems, and Advanced DSA
+- 🚀 Interested in Backend Engineering and scalable system architecture
 - 📫 You can reach me on ravitejakaranam1999@gmail.com
 
 <!---
